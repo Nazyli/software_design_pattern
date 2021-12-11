@@ -18,3 +18,6 @@ Prodi  : Teknik Informatika
 ![picture](pertemuan-4/FactoryMethods.png)
 #### Abstract Methods
 ![picture](pertemuan-4/AbstractFactory.png)
+### Pertemuan 9
+#### Proxy Pattern
+![picture](pertemuan-9/ProxyPattern.png)
